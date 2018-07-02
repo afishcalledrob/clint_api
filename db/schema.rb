@@ -37,6 +37,7 @@ ActiveRecord::Schema.define(version: 2018_06_26_155832) do
     t.string "location"
     t.integer "price_range"
     t.string "category"
+    t.string "images"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end

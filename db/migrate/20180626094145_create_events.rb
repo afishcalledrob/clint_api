@@ -7,6 +7,7 @@ class CreateEvents < ActiveRecord::Migration[5.2]
       t.string :location
       t.integer :price_range
       t.string :category
+      t.string :images
 
       t.timestamps
     end
