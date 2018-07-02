@@ -743,6 +743,4 @@ AvailabilitiesEvent.create([
   {event_id: 29, availability_id: 29},
   {event_id: 29, availability_id: 30},
   {event_id: 29, availability_id: 31},
-
-
 ])
